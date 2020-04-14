@@ -19,6 +19,8 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  dio: any
+  amazon_cognito_identity_dart: any
 
 
   # The following adds the Cupertino Icons font to your application.
