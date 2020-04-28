@@ -14,7 +14,7 @@ EXTERNAL SOURCES:
     :path: Flutter
 
 SPEC CHECKSUMS:
-  arkit_plugin: bac4df15d3c0bcafd4acaf323acefdeee1ccf224
+  arkit_plugin: 3e42571e8be84adabb8a178bd51c22fa981e16bd
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
 
 PODFILE CHECKSUM: c34e2287a9ccaa606aeceab922830efb9a6ff69a
