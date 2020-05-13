@@ -10,7 +10,7 @@ void main() {
   runApp(new FriendlychatApp());
 }
 
-const String _name = "User1";
+const String _name = "User2";
 const int LIMIT = 10;
 
 class FriendlychatApp extends StatelessWidget {
@@ -189,7 +189,7 @@ class ChatScreenState extends State<ChatScreen> with TickerProviderStateMixin {
     try {
       var dio = new Dio();
       var postUrl =
-          "https://4q885jrcg6.execute-api.us-east-1.amazonaws.com/prod/ride";
+          "xx";
       var response = await dio.get(postUrl);
       if (response.statusCode == 200) {
         result = response.data.toString();
